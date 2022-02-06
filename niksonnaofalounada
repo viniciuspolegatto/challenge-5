@@ -1,1 +1,8 @@
+let numero = "000023"
 
+if (numero == 2) { 
+console.log("numero igual a 2")
+}
+else {
+console.log ("numero diferente de 2")
+}
